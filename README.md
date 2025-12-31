@@ -5,6 +5,8 @@ This project demonstrates how hierarchical data can be explored, edited, and vis
 
 Made by Taranjeet
 
+Deployment Link-:https://mindmap-ui-five.vercel.app/
+
 🎯 Project Overview
 
 This project was built as part of a Frontend Development Internship assignment.
